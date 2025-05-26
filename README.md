@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Vab-170
 - 👀 I’m interested in AI, machine learning, and web development 
 - 🌱 I’m currently learning Full-Stack development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like roller coasters.
 
 <!---
